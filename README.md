@@ -1,1 +1,1 @@
-- [Preview](https://nub1a.github.io/lesson0/index.html)
+- [Preview](https://nub1a.github.io/lesson0/index)
